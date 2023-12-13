@@ -49,42 +49,6 @@ hamidjonashuraliev/hamidjonashuraliev is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-              
-
-</table>
-
-<table>
-    <tr>
-        <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="John"/></p>
-        </th>
-        <th>
-            <p><img align="center" src="https://github.com/hamidjonashuraliev" alt="John" /></p>
-        </th>
-    </tr>
-</table>
-
-[//]: ![snake](https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake.gif)
-
-[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpy8&hide_progress=true&theme=dark" alt="arpy8" width=400 /></p> )
-
-[//]: # (<br> )
-
-[//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
-
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
-
-![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=John)
-
-<!-- <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-![Metrics](https://metrics.lecoq.io/arpy8?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-<a href="https://www.hackerrank.com/arpy8?hr_r=1">
-    <img src="assets/hackerrank.png">
-</a> -->
-<br>
-<a href="https://holopin.io/@arpitwastaken">
-    <img src="https://holopin.me/arpitwastaken">
-</a>
 
 
 
