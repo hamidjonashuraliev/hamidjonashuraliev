@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
             <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="John"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="John" /></p>
+            <p><img align="center" src="https://github.com/hamidjonashuraliev" alt="John" /></p>
         </th>
     </tr>
 </table>
