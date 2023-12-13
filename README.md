@@ -50,53 +50,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
 
-
-
----
-title: Health Check Pattern
-category: Performance
-category: Behavioral
-language: en
-tag:
-  - Performance
-  - Microservices
-  - Resilience
-  - Observability
----
-# Health Check Pattern
-## Also known as
-Health Monitoring, Service Health Check
-## Intent
-To ensure the stability and resilience of services in a microservices architecture by providing a way to monitor and diagnose their health.
-## Explanation
-In microservices architecture, it's critical to continuously check the health of individual services. The Health Check Pattern is a mechanism for microservices to expose their health status. This pattern is implemented by including a health check endpoint in microservices that returns the service's current state. This is vital for maintaining system resilience and operational readiness.
-## Class Diagram
-![alt text](./etc/health-check.png "Health Check")
-## Applicability
-Use the Health Check Pattern when:
-- You have an application composed of multiple services and need to monitor the health of each service individually.
-- You want to implement automatic service recovery or replacement based on health status.
-- You are employing orchestration or automation tools that rely on health checks to manage service instances.
-## Tutorials
-- Implementing Health Checks in Java using Spring Boot Actuator.
-## Known Uses
-- Kubernetes Liveness and Readiness Probes
-- AWS Elastic Load Balancing Health Checks
-- Spring Boot Actuator
-## Consequences
-**Pros:**
-- Enhances the fault tolerance of the system by detecting failures and enabling quick recovery.
-- Improves the visibility of system health for operational monitoring and alerting.
-**Cons:**
-- Adds complexity to service implementation.
-- Requires a strategy to handle cascading failures when dependent services are unhealthy.
-## Related Patterns
-- Circuit Breaker
-- Retry Pattern
-- Timeout Pattern
-## Credits
-Inspired by the Health Check API pattern from [microservices.io](https://microservices.io/patterns/observability/health-check-api.html) and the issue [#2695](https://github.com/iluwatar/java-design-patterns/issues/2695) on iluwatar's Java design patterns repository.
 
 
 
