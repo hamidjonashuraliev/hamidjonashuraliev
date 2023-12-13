@@ -56,10 +56,10 @@ You can click the Preview link to take a look at your changes.
 <table>
     <tr>
         <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
+            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="John"/></p>
         </th>
         <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
+            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="John" /></p>
         </th>
     </tr>
 </table>
@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
-![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
+![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=John)
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 ![Metrics](https://metrics.lecoq.io/arpy8?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
