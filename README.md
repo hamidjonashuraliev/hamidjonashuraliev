@@ -1,54 +1,3 @@
-
-              
-
-        <th align="right">        
-            <img src="https://spotify-github-profile.vercel.app/api/view?uid=314en4ia7eeyco74hvxp6254hmam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=4eb16f&bar_color_cover=true">
-        </th>        
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
-        </th>
-        <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
-        </th>
-    </tr>
-</table>
-
-[//]: ![snake](https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake.gif)
-
-[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpy8&hide_progress=true&theme=dark" alt="arpy8" width=400 /></p> )
-
-[//]: # (<br> )
-
-[//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
-
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
-
-![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
-
-<!-- <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-![Metrics](https://metrics.lecoq.io/arpy8?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-<a href="https://www.hackerrank.com/arpy8?hr_r=1">
-    <img src="assets/hackerrank.png">
-</a> -->
-<br>
-<a href="https://holopin.io/@arpitwastaken">
-    <img src="https://holopin.me/arpitwastaken">
-</a>
-
-
-
-
-
-
-
-
-
-
 - 👋 Hi, I’m @hamidjonashuraliev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -99,3 +48,50 @@
 hamidjonashuraliev/hamidjonashuraliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+              
+
+</table>
+
+<table>
+    <tr>
+        <th>
+            <p><img align="center" src="https://readmestats.999857.xyz/api?username=arpy8&show_icons=true&locale=en&theme=dark" alt="arpy8"/></p>
+        </th>
+        <th>
+            <p><img align="center" src="https://streak-stats.demolab.com/?user=arpy8&theme=gotham" alt="arpy8" /></p>
+        </th>
+    </tr>
+</table>
+
+[//]: ![snake](https://github.com/arpy8/arpy8/blob/output/github-contribution-grid-snake.gif)
+
+[//]: # (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpy8&hide_progress=true&theme=dark" alt="arpy8" width=400 /></p> )
+
+[//]: # (<br> )
+
+[//]: # (<p><img align="center" src="assets/eyepop.png" alt="eyepop" height="150"/></p>)
+
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=arpy8&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+
+![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arpy8)
+
+<!-- <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![Metrics](https://metrics.lecoq.io/arpy8?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<a href="https://www.hackerrank.com/arpy8?hr_r=1">
+    <img src="assets/hackerrank.png">
+</a> -->
+<br>
+<a href="https://holopin.io/@arpitwastaken">
+    <img src="https://holopin.me/arpitwastaken">
+</a>
+
+
+
+
+
+
+
+
+
+
