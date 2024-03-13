@@ -26,7 +26,7 @@
 <code><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/487b2655-8eea-4321-9ec0-3034b4444be3.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60px"></code>
 <code><img src="https://heropy.blog/css/images/vendor_icons/sass.png" width="80px" height="40px"></code>
-<code><img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="80px" height="40px"></code>
+
 <code><img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" width="80px" height="40px"></code>
 <code><img src="https://blog.kakaocdn.net/dn/bg2n4x/btrgczTySc9/isgW7XMQ1woHT401QU0M01/img.png" width="80px" height="40px"></code>
 <code><img src="https://www.cjr.org/wp-content/uploads/2017/01/jim_vandehei_axios.png" width="80px" height="40px"></code>
