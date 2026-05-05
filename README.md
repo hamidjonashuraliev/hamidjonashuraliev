@@ -12,34 +12,59 @@
 </div>
                                                            
 ### Languages and tools I work with:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px">
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="80px">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50px">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60px"><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50px"><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px"><br>
-
+<!-- ================= HTML ================= -->
+<h3 align="center">HTML</h3>
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60px">
+</p>
+
+<!-- ================= CSS ================= -->
+<h3 align="center">CSS</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="60px">
+</p>
+
+<!-- ================= JAVASCRIPT ================= -->
+<h3 align="center">JavaScript</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60px">
+</p>
+
+<!-- ================= REACT ================= -->
+<h3 align="center">React</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60px">
+</p>
+
+<!-- ================= NODE / EXPRESS ================= -->
+<h3 align="center">Node.js & Express</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="90px">
+</p>
+
+<!-- ================= DATABASE ================= -->
+<h3 align="center">MongoDB</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="90px">
+</p>
+
+<!-- ================= DATA SCIENCE ================= -->
+<h3 align="center">Data Science Tools</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60px">
+</p>
+
+<!-- ================= TOOLS ================= -->
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px">
 </p>
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"></code>
