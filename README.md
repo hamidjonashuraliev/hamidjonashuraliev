@@ -12,18 +12,33 @@
 </div>
                                                            
 ### Languages and tools I work with:
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px">
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="80px">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50px">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60px">
+
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px">
+</p>
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50px"></code>
