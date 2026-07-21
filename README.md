@@ -170,11 +170,11 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy-git-master.gauthamk999.vercel.app/?username=hamidjonashuraliev&theme=tokyonight&no-frame=true&column=7" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=hamidjonashuraliev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=6"
+  />
+</p>
 
 ---
 
