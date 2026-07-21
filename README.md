@@ -169,11 +169,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamidjonashuraliev&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy-git-master.gauthamk999.vercel.app/?username=hamidjonashuraliev&theme=tokyonight&no-frame=true&column=7" />
 
 </div>
 
