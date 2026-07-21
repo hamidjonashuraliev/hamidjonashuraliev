@@ -3,7 +3,9 @@
 # 👋 Hi, I'm John (Hamidjon)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Machine+Learning+Engineer;JavaScript+%7C+React+%7C+Node.js;Python+%7C+Scikit-Learn+%7C+AI;Always+Learning+New+Technologies" />
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+John+Dev+👋;Full+Stack+MERN+Developer;Machine+Learning+Engineer;Building+AI+Projects+🚀;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Python+%7C+Scikit-Learn+%7C+Artificial+Intelligence;Backend+Architecture+%7C+API+Development;Creating+Modern+Web+Applications;Always+Learning+New+Technologies+🔥" />
+</h1>
 <p>
 <img src="https://komarev.com/ghpvc/?username=hamidjonashuraliev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/hamidjonashuraliev?style=for-the-badge&logo=github"/>
