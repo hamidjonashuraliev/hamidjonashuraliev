@@ -1,109 +1,154 @@
-- 👋 Hi, I’m https://t.me/John_dev_2070.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ....
- ### Hi I'm John(Hamidjon) <!-- <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> --><img src="https://media3.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e47mg0lfgyrfqik5i1cmhef1yx1mtjcb29hdplc8wof&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55px">
-<hr>
-
-<strong align="center">You can visit my page</strong>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer+John👨‍💻;Based+in+Icheon,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
+
+# 👋 Hi, I'm John (Hamidjon) *** https://t.me/John_dev_2070.***
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Machine+Learning+Engineer;JavaScript+%7C+React+%7C+Node.js;Python+%7C+Scikit-Learn+%7C+AI;Always+Learning+New+Technologies+🚀" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=hamidjonashuraliev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/hamidjonashuraliev?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/hamidjonashuraliev?style=for-the-badge&logo=github"/>
+</p>
+
 </div>
-                                                           
-### Languages and tools I work with:
-<!-- ================= HTML ================= -->
-<h3 align="center">HTML</h3>
+
+---
+
+# 💫 About Me
+
+```javascript
+const john = {
+    name: "Hamidjon Ashuraliev",
+    nickname: "John",
+    location: "South Korea 🇰🇷",
+    role: "Full Stack MERN Developer",
+
+    currentlyLearning: [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "NestJS",
+        "Docker",
+        "Kubernetes"
+    ],
+
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    ],
+
+    hobbies: [
+        "Coding",
+        "Learning",
+        "Gym",
+        "Coffee ☕"
+    ]
+}
+```
+
+---
+
+# 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60px">
+
+<a href="https://t.me/John_dev_2070">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hamidjonashuraliev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-<!-- ================= CSS ================= -->
-<h3 align="center">CSS</h3>
+---
+
+# 💻 Tech Stack
+
+## 🌐 Frontend
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="60px">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,materialui,vite"/>
+
 </p>
 
-<!-- ================= JAVASCRIPT ================= -->
-<h3 align="center">JavaScript</h3>
+---
+
+## ⚙ Backend
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60px">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,yarn"/>
+
 </p>
 
-<!-- ================= REACT ================= -->
-<h3 align="center">React</h3>
+---
+
+## 🗄 Database
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60px">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
 </p>
 
-<!-- ================= NODE / EXPRESS ================= -->
-<h3 align="center">Node.js & Express</h3>
+---
+
+## 🤖 Machine Learning
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="90px">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
+
 </p>
 
-<!-- ================= DATABASE ================= -->
-<h3 align="center">MongoDB</h3>
+---
+
+## ☁ Cloud & DevOps
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="90px">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify"/>
+
 </p>
 
-<!-- ================= DATA SCIENCE ================= -->
-<h3 align="center">Data Science Tools</h3>
+---
+
+## 🛠 Tools
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60px">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+
 </p>
 
-<!-- ================= TOOLS ================= -->
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40px">
-</p>
+---
 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px"></code>
-<code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="50px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="60px" height="40px"></code>
-<code><img src="https://avatars.dzeninfra.ru/get-zen_doc/751940/pub_5ad594f9830905f56834939e_5ad5956f77d0e6231c9503cc/scale_1200" width="50px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" width="60px" height="30px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUbjpHNiAc2MvMN1SAm7Ns5N_M-h2szTYEPecG_iKD0QXp5Ion52kG0FBsF-6Q6U5t3fY&usqp=CAU" width="50px"></code>
-<code><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Pic.png" width="60px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_eMjpOH-m8PRNgphEdHAG3G8iJJb2VBPBjOSMZvACKcMe_h_IioGSi2fK0JYnnm_efI&usqp=CAU" width="50px"></code>
-<code><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/487b2655-8eea-4321-9ec0-3034b4444be3.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" width="50px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60px"></code>
-<code><img src="https://heropy.blog/css/images/vendor_icons/sass.png" width="80px" height="40px"></code>
+# 📚 Currently Learning
 
-<code><img src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" width="80px" height="40px"></code>
-<code><img src="https://blog.kakaocdn.net/dn/bg2n4x/btrgczTySc9/isgW7XMQ1woHT401QU0M01/img.png" width="80px" height="40px"></code>
-<code><img src="https://www.cjr.org/wp-content/uploads/2017/01/jim_vandehei_axios.png" width="80px" height="40px"></code>
-<code><img src="https://chriscourses.com/blog/redux.jpg" width="80px" height="40px"></code>
-<code><img src="https://blog.openreplay.com/images/why-should-you-use-material-ui/images/hero.png" width="80px" height="40px"></code>
-<code><img src="https://www.nerdwallet.com/assets/blog/wp-content/uploads/2018/05/yarn.png" width="80px" height="40px"></code>
-<code><img src="https://jwt.io/img/logo-asset.svg" width="80px" height="40px"></code>
-<code><img src="https://velog.velcdn.com/images/wns450/post/9c2e5367-cfad-462f-8db0-b4fec7cbf8ba/image.png" width="80px" height="40px"></code>
-<code><img src="https://images.velog.io/images/jiheon/post/47b68c96-a24c-413c-9b06-d276a55a6605/1.png" width="60px"></code>
-<code><img src="https://images.velog.io/images/eunnbi/post/447e92dc-c93e-4ce9-9561-74dfefb4d838/0_-Mrot3h5AJ9fTFQk.png" width="80px" height="40px"></code>
-<code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--PL9NNZwe--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0v54o6kw67xo4ff9il7p.png" width="80px" height="40px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="80px" height="40px"></code>
-<code><img src="https://files.virgool.io/upload/users/241004/posts/prjgwponutit/0qakjwfxc462.png" width="80px" height="40px"></code>
-<code><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width="80px" height="40px"></code>
-<code><img src="https://www.peillat-qa.com/assets/img/portfolio/performance/grafana.png" width="80px" height="40px"></code>
-<code><img src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png" width="80px" height="40px"></code>
-<br />                                                                                                                     
+| Technology | Status |
+|------------|--------|
+| NestJS | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
-<!---
-hamidjonashuraliev/hamidjonashuraliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+# ⚡ Fun Fact
 
+> 💡 **"The best error message is the one that never shows up."**
 
-
+---
