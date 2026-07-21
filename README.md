@@ -38,16 +38,15 @@
 
 <p align="center">
 
-<a href="https://t.me/John_dev_2070">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="mailto:khamidjonashuraliev033@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-@John_dev_2070-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/John_dev_2070)
 
-<a href="https://github.com/hamidjonashuraliev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+[![GitHub](https://img.shields.io/badge/GitHub-hamidjonashuraliev-181717?style=for-the-badge&logo=github)](https://github.com/hamidjonashuraliev)
+
+[![Email](https://img.shields.io/badge/Email-khamidjonashuraliev033@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+
+</div>
 </a>
 
 </p>
@@ -255,21 +254,6 @@
 
 </div>
 
----
-
-# 📫 Contact Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@John_dev_2070-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/John_dev_2070)
-
-[![GitHub](https://img.shields.io/badge/GitHub-hamidjonashuraliev-181717?style=for-the-badge&logo=github)](https://github.com/hamidjonashuraliev)
-
-[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-
-</div>
-
----
 ---
 
 # 🚀 Featured Technologies
