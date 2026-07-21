@@ -292,63 +292,117 @@
 
 ---
 
-# 🧠 My Coding Philosophy
+## 🧠 My Coding Philosophy
 
-> "Keep learning. Keep building. Keep improving."
+> 💡 **"Keep learning. Keep building. Keep improving."**
 
-> "Clean code is not written by following a set of rules. Clean code is written by developers who care."
+> ✨ Clean code is not written by following rules.  
+> Clean code is written by developers who care.
+
+<br/>
 
 ---
 
-# 💻 Development Environment
+## 💻 Development Environment
 
-Operating System:
-  - Windows 11
-  - Linux
+<table>
+<tr>
+<td width="50%">
 
-Editor:
-  - Visual Studio Code
+### 🖥️ Operating System
 
-Browser:
-  - Google Chrome
+- 🪟 Windows 11
+- 🐧 Linux
 
-Terminal:
-  - PowerShell
-  - Git Bash
+### 📝 Editor
 
-Version Control:
-  - Git
-  - GitHub
+- ⚡ Visual Studio Code
 
-Package Managers:
-  - npm
-  - Yarn
+### 🌐 Browser
 
-API Testing:
-  - Postman
+- 🌎 Google Chrome
 
-Design:
-  - Figma
+### ⌨️ Terminal
 
-Database:
-  - MongoDB
-  - MySQL
-  - PostgreSQL
+- 💙 PowerShell
+- 🐚 Git Bash
+
+</td>
+
+<td width="50%">
+
+### 🔀 Version Control
+
+- 🔥 Git
+- 🐙 GitHub
+
+### 📦 Package Managers
+
+- 📦 npm
+- 🧶 Yarn
+
+### 🧪 API Testing
+
+- 🚀 Postman
+
+### 🎨 Design
+
+- 🎨 Figma
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🗄️ Database
+
+- 🍃 MongoDB
+- 🐬 MySQL
+- 🐘 PostgreSQL
+
+</td>
+</tr>
+
+</table>
+
+
+<br/>
 
 ---
 
 # 📌 Current Focus
 
-- 🚀 Full Stack MERN Development
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🧠 Artificial Intelligence
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ☸️ Kubernetes
-- 📚 System Design
-- ⚡️ Performance Optimization
 
+<div align="center">
+
+| 🚀 Technology | 🎯 Goal |
+|---|---|
+| ⚛️ Full Stack Development | Building scalable applications |
+| 🤖 Machine Learning | Intelligent systems |
+| 📊 Data Science | Data driven solutions |
+| 🧠 Artificial Intelligence | AI powered products |
+| ☁️ Cloud Computing | Cloud infrastructure |
+| 🐳 Docker | Containerization |
+| ☸️ Kubernetes | DevOps & orchestration |
+| 🏗️ System Design | Large scale architecture |
+| ⚡ Performance Optimization | Faster applications |
+
+</div>
+
+
+<br/>
+
+---
+
+## 🛠️ Tools I Use
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,typescript,react,nextjs,nestjs,python,docker,kubernetes,mongodb,postgres,figma&perline=8" />
+
+</p>
 ---
 
 # 🐍 Contribution Snake
