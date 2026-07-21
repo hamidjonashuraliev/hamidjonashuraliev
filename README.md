@@ -13,9 +13,6 @@
 </div>
 
 ---
-# 💫 About Me
-
-```javascript
 const john = {
     name: "Hamidjon Ashuraliev",
     nickname: "John",
@@ -44,7 +41,6 @@ const john = {
         "Coffee ☕"
     ]
 }
-```
 
 ---
 
