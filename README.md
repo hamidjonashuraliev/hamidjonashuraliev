@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm John (Hamidjon) *** https://t.me/John_dev_2070.***
+# 👋 Hi, I'm John (Hamidjon)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Machine+Learning+Engineer;JavaScript+%7C+React+%7C+Node.js;Python+%7C+Scikit-Learn+%7C+AI;Always+Learning+New+Technologies+🚀" />
 
@@ -13,34 +13,24 @@
 </div>
 
 ---
-const john = {
-    name: "Hamidjon Ashuraliev",
-    nickname: "John",
-    location: "South Korea 🇰🇷",
-    role: "Full Stack MERN Developer",
 
-    currentlyLearning: [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Deep Learning",
-        "NestJS",
-        "Docker",
-        "Kubernetes"
-    ],
+## 👨‍💻 About Me
 
-    languages: [
-        "JavaScript",
-        "TypeScript",
-        "Python"
-    ],
+💼 Full Stack MERN Developer
 
-    hobbies: [
-        "Coding",
-        "Learning",
-        "Gym",
-        "Coffee ☕"
-    ]
-}
+📍 South Korea 🇰🇷
+
+🎓 Machine Learning Enthusiast
+
+🚀 Building Full Stack & AI Projects
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+</p>
 
 ---
 
