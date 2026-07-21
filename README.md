@@ -1,227 +1,409 @@
-# 👋 Hi, I'm John
-
 <div align="center">
 
-### 🚀 Full Stack Developer | 🤖 Machine Learning Engineer
+# 👋 Hi, I'm John (Hamidjon)
 
-Building modern applications and exploring Artificial Intelligence.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Machine+Learning+Engineer;JavaScript+%7C+React+%7C+Node.js;Python+%7C+Scikit-Learn+%7C+AI;Always+Learning+New+Technologies+🚀" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=hamidjonashuraliev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/hamidjonashuraliev?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/hamidjonashuraliev?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
-- 👀 I’m interested in **Software Development, AI, Machine Learning, and Backend Engineering**
-- 🌱 I’m currently learning **Advanced JavaScript, TypeScript, Node.js, Machine Learning, and System Design**
-- 💞️ I’m looking to collaborate on **Open Source projects and innovative technologies**
-- ⚡ I love creating real-world applications and solving complex problems
+💼 Full Stack MERN Developer
 
+📍 South Korea 🇰🇷
+
+🎓 Machine Learning Enthusiast
+
+🚀 Building Full Stack & AI Projects
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🌐 Connect with Me
 
+<p align="center">
 
-## 💻 Programming Languages
+<a href="https://t.me/John_dev_2070">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="mailto:khamidjonashuraliev033@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://github.com/hamidjonashuraliev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</p>
 
+---
+
+# 💻 Tech Stack
 
 ## 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,materialui,vite"/>
 
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+</p>
 
+---
 
 ## ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,yarn"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</p>
 
+---
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+</p>
+
+---
 
 ## 🤖 Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center">
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python"/>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
 
-
----
-
-# 🚀 Projects
-
-
-## 🤖 AI Workforce Transformation Prediction
-
-Machine Learning project focused on predicting AI transformation success across countries and occupations.
-
-### Technologies:
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- SHAP
-- Plotly
-
-
-### Machine Learning Pipeline:
-
-✅ Data Cleaning  
-✅ Exploratory Data Analysis  
-✅ Feature Analysis  
-✅ Multi-class Classification  
-✅ Hyperparameter Optimization  
-✅ Ensemble Learning  
-✅ Model Evaluation  
-
-
-Models:
-
-- Logistic Regression
-- Random Forest
-- XGBoost
-- Voting Ensemble
-- Stacking Ensemble
-- Bagging Ensemble
-
+</p>
 
 ---
 
-## 🛒 John's Mall
+## ☁️ Cloud & DevOps
 
-Modern e-commerce platform with futuristic UI design.
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify"/>
 
-### Frontend:
-- React
-- TypeScript
-- Redux Toolkit
-- Material UI
-
-
-### Backend:
-- Node.js
-- Express.js
-- MongoDB
-
+</p>
 
 ---
 
-## 🏪 Restaurant Admin System
+## 🛠 Tools
 
-Restaurant management backend and admin dashboard.
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
-Features:
-
-- Authentication
-- User Management
-- Product Management
-- Store Management
-- REST API
-
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- ⚙️ Backend Architecture
-- 🏗️ System Design
-- ☁️ Cloud Technologies
-- 🚀 Advanced JavaScript / TypeScript
-
-
----
-
-# 🎯 Goals
-
-My goal is to become a strong:
-
-- Full Stack Developer
-- Machine Learning Engineer
-
-
-I enjoy building useful applications, improving my skills, and learning new technologies.
-
+| Technology | Status |
+|------------|--------|
+| NestJS | 🟡 Learning |
+| Docker | 🟡 Learning |
+| Kubernetes | 🟡 Learning |
+| AWS | 🟡 Learning |
+| Deep Learning | 🟡 Learning |
+| TensorFlow | 🟡 Learning |
+| PyTorch | 🟡 Learning |
 
 ---
 
-# 📊 GitHub Stats
+# ⚡️ Fun Fact
 
+> 💡 "The best error message is the one that never shows up."
+
+---
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamidjonashuraliev&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamidjonashuraliev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidjonashuraliev&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidjonashuraliev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 
 ---
 
-# 🏆 GitHub Trophy
-
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamidjonashuraliev&theme=tokyonight&row=1" />
+<img src="https://streak-stats.demolab.com?user=hamidjonashuraliev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamidjonashuraliev&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hamidjonashuraliev&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 AI Workforce Transformation | Multi-Class Machine Learning Project for AI workforce prediction | Python, Scikit-learn, XGBoost, SHAP |
+| 🛒 John's Mall | Full Stack MERN E-commerce Platform | React, Node.js, Express, MongoDB |
+| 🍽 Restaurant Admin Panel | Restaurant Management System | Node.js, Express, MongoDB |
+| 📊 Data Analysis Dashboard | Data Visualization & Analytics | Python, Pandas, Plotly |
+
+---
+
+# 🏅 Certifications & Learning
+
+<div align="center">
+
+| Status | Technology |
+|--------|------------|
+| ✅ | JavaScript |
+| ✅ | React |
+| ✅ | Node.js |
+| ✅ | Express.js |
+| ✅ | MongoDB |
+| ✅ | Git & GitHub |
+| 🟡 | TypeScript |
+| 🟡 | Machine Learning |
+| 🟡 | Docker |
+| 🟡 | Kubernetes |
+| 🟡 | AWS |
+| 🟡 | Deep Learning |
+
+</div>
+
+---
+
+# 💼 What I'm Working On
+
+🟢 Building MERN Stack Applications
+
+🟢 Machine Learning Projects
+
+🟢 AI Workforce Prediction
+
+🟢 Backend REST APIs
+
+🟢 Data Analysis
+
+🟢 Learning Docker & Kubernetes
+
+🟢 Improving System Design Skills
+
+🟢 Open Source Contributions
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become a Senior Full Stack Developer
+- 🤖 Master Machine Learning & AI
+- 🐳 Learn Docker & Kubernetes
+- ☁️ Learn AWS Cloud
+- 📱 Build Large Scale Projects
+- 🌍 Contribute More to Open Source
+- 💼 Build SaaS Products
+- ⭐️ Reach 1000+ GitHub Contributions
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."  
+> — John Johnson
+
+</div>
 
 ---
 
 # 📫 Contact Me
 
-📱 Telegram:
-https://t.me/John_dev_2070
+<div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-@John_dev_2070-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/John_dev_2070)
 
-💻 GitHub:
-https://github.com/hamidjonashuraliev
+[![GitHub](https://img.shields.io/badge/GitHub-hamidjonashuraliev-181717?style=for-the-badge&logo=github)](https://github.com/hamidjonashuraliev)
 
+[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 
-📧 Email:
-your-email@example.com
-
+</div>
 
 ---
-
-# ⚡ Fun Facts
-
-- 💡 I love solving programming problems
-- 🚀 I build projects from scratch
-- 🤖 Interested in Artificial Intelligence
-- 🌱 Always learning new technologies
-- ☕ Code + Coffee = Productivity
-
-
 ---
 
-# 💬 Quote
-
-> "First, solve the problem. Then, write the code."
-
+# 🚀 Featured Technologies
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile! 🚀
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,docker,kubernetes,git,github,vscode,figma,postman,linux,aws" />
+
+</div>
+
+---
+
+# 🌱 2026 Learning Roadmap
+
+████████████████████░░░░  JavaScript         90%
+
+███████████████████░░░░░  React              85%
+
+██████████████████░░░░░░  Node.js            80%
+
+█████████████████░░░░░░░  Express.js         80%
+
+████████████████░░░░░░░░  MongoDB            75%
+
+███████████████░░░░░░░░░  TypeScript         70%
+
+██████████████░░░░░░░░░░  Python             70%
+
+█████████████░░░░░░░░░░░  Machine Learning   65%
+
+██████████░░░░░░░░░░░░░░  Docker             50%
+
+█████████░░░░░░░░░░░░░░░  Kubernetes         45%
+
+████████░░░░░░░░░░░░░░░░  AWS                40%
+
+---
+
+# 🧠 My Coding Philosophy
+
+> "Keep learning. Keep building. Keep improving."
+
+> "Clean code is not written by following a set of rules. Clean code is written by developers who care."
+
+---
+
+# 💻 Development Environment
+
+Operating System:
+  - Windows 11
+  - Linux
+
+Editor:
+  - Visual Studio Code
+
+Browser:
+  - Google Chrome
+
+Terminal:
+  - PowerShell
+  - Git Bash
+
+Version Control:
+  - Git
+  - GitHub
+
+Package Managers:
+  - npm
+  - Yarn
+
+API Testing:
+  - Postman
+
+Design:
+  - Figma
+
+Database:
+  - MongoDB
+  - MySQL
+  - PostgreSQL
+
+---
+
+# 📌 Current Focus
+
+- 🚀 Full Stack MERN Development
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🧠 Artificial Intelligence
+- ☁️ Cloud Computing
+- 🐳 Docker
+- ☸️ Kubernetes
+- 📚 System Design
+- ⚡️ Performance Optimization
+
+---
+
+# 🐍 Contribution Snake
+
+> GitHub Actions orqali quyidagi animatsiyani qo'shishingiz mumkin:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ❤️ Support
+
+If you like my work, don't forget to ⭐️ my repositories.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://t.me/John_dev_2070">
+<img src="https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hamidjonashuraliev">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+## ⭐️ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+Made with ❤️ by John (Hamidjon)
 
 </div>
